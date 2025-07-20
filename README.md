@@ -1,5 +1,4 @@
-# sugaregare
-<!DOCTYPE html>
+
 <html lang="ja">
 
 <head>
